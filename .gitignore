@@ -1,0 +1,8 @@
+/target
+.idea
+rowifi.iml
+.env
+*.txt
+*.png
+*.pem
+*.sql
